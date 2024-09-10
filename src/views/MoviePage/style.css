@@ -1,0 +1,27 @@
+.movie-wrapper {
+    display: flex;
+    align-content: flex-start;
+    gap: 40px;
+}
+
+.right-side{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.left-side img{
+    width: 400px;
+}
+
+.title{
+    font-size: 40px;
+}
+
+.sub-title{
+    font-size: 32px;
+}
+
+.description{
+    font-size: 24px;
+}

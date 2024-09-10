@@ -1,0 +1,15 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin: -15px;
+}
+
+.col-4{
+   width: 33.3333%;
+   padding: 15px;
+}
+
+.movie-img{
+    width: 100%;
+    object-fit: cover;
+}
